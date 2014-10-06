@@ -1,4 +1,0 @@
-1) After cloning, run mvn clean package.
-2) Will be created /out directory (in project dir) with out/application.jar and out/jar/functionality.jar.
-3) cd /out and run java -jar application.jar
-4) ..and enjoy =)
